@@ -159,7 +159,7 @@ body{
     justify-content: center;
 }
 
-.projects-section{
+#projects-section{
     background:linear-gradient(45deg, rgb(255, 100, 0),orange);
     width:100%;
     padding: 70px 10vw;
